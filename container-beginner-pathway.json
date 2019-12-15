@@ -1,5 +1,11 @@
 {
   "title": "コンテナ入門",
-  "description": "コンテナ入門コースです。コンテナの作成、起動",
-  "courses": []
+  "description": "コンテナ入門コースです。",
+  "courses": [
+    {
+      "course_id": "create-container",
+      "title": "コンテナを動かしてみよう",
+      "description": "Dockerを利用して、コンテナを動かしてみます。"
+    }
+  ]
 }
